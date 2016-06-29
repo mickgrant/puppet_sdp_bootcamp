@@ -1,0 +1,7 @@
+---
+## lon-agent-1324.puppet.lan
+
+sysctl:
+  - snowflake = unique
+
+biz: money

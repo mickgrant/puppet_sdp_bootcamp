@@ -1,0 +1,2 @@
+lon-agent-1324.puppet.lan
+pdx-agent-1663.puppet.lan
