@@ -1,0 +1,17 @@
+{
+  "Gemfile": "b10f88abf0f217a47ef62f78e9a46213",
+  "LICENSE": "c43ad7837d4770c3823fdab29a78f0e3",
+  "README.md": "a6bc48a6302b93afabd59202e1939cb8",
+  "Rakefile": "d01ddd69166c145d019242ada728b7b7",
+  "manifests/init.pp": "b88957c2ce4c40a1f007c0b7a093197a",
+  "manifests/params.pp": "4e2b2e7acf0b3e148e289a9acb02b172",
+  "manifests/solaris.pp": "769df5c100c3f9489ddf5446a48b8d47",
+  "metadata.json": "501cef28daf188cf7083eb4119eb47c4",
+  "spec/classes/resolv_conf_spec.rb": "32684e022080d37bc12aacc432fbc6dd",
+  "spec/fixtures/site.pp": "d41d8cd98f00b204e9800998ecf8427e",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/resolv.conf.erb": "a472acf365e892ad07a7031d1d2b38f2",
+  "tests/init.pp": "68349cef59deb31dff5f35382482c376",
+  "tests/init_class.pp": "a78000a1467e9db2921ab14f466ef0b0"
+}

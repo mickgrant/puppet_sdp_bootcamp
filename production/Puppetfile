@@ -1,2 +1,14 @@
+forge 'forgeapi.puppetlabs.com'
+
+mod 'puppet/archive'
+mod 'puppetlabs/apache'
+mod 'puppetlabs/concat'
+mod 'puppetlabs/ntp'
+mod 'puppetlabs/stdlib'
+mod 'zanloy/resolv_conf'
+
+mod 'swap_file'
+  :git => 'https://gitlab.com/SydOps/puppet-swap_file'
+
 mod 'sysctl',
   :git => 'https://github.com/cegeka/puppet-sysctl'

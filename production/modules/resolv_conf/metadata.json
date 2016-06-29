@@ -1,0 +1,65 @@
+{
+  "name": "zanloy-resolv_conf",
+  "version": "3.0.5",
+  "author": "Zan Loy",
+  "summary": "Manage resolv.conf via Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/zanloy/puppet-resolv_conf.git",
+  "project_page": "https://github.com/zanloy/puppet-resolv_conf",
+  "issues_url": "https://github.com/zanloy/puppet-resolv_conf/issues",
+  "description": "Manage resolv.conf via Puppet. This is a fork of saz/resolv_conf.",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "ArchLinux"
+    },
+    {
+      "operatingsystem": "CentOS"
+    },
+    {
+      "operatingsystem": "Debian"
+    },
+    {
+      "operatingsystem": "FreeBSD"
+    },
+    {
+      "operatingsystem": "Gentoo"
+    },
+    {
+      "operatingsystem": "OpenBSD"
+    },
+    {
+      "operatingsystem": "OracleLinux"
+    },
+    {
+      "operatingsystem": "RedHat"
+    },
+    {
+      "operatingsystem": "Scientific"
+    },
+    {
+      "operatingsystem": "Solaris"
+    },
+    {
+      "operatingsystem": "Suse"
+    },
+    {
+      "operatingsystem": "Ubuntu"
+    }
+  ],
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">=3.2.0 < 3.4.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": "3.x"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 3.2.0"
+    }
+  ]
+}
