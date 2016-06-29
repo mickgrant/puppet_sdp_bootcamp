@@ -1,0 +1,5 @@
+## NOTICE: /etc/sysctl.conf is managed by Puppet
+
+<% @sysctl.each do |sysctl_value| %>
+<%= sysctl_value -%>
+<% end %>
